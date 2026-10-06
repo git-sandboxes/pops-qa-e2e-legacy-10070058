@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-06T16:01:03Z",
+    "currentVersion": "1.0.1",
+    "projectType": "node",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "1.0.1",
+      "project_type": "node",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-06",
+      "pr_number": 3,
+      "raw_summary": "## Summary by CodeRabbit\n\n## 릴리스 노트\n\n* **버그 수정**\n  * 토큰이 만료돼도 소셜 로그인이 실패하지 않습니다.",
+      "parsed_changes": {
+        "버그_수정": {
+          "title": "버그 수정",
+          "items": [
+            "토큰이 만료돼도 소셜 로그인이 실패하지 않습니다."
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
